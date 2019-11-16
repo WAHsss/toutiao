@@ -4,6 +4,7 @@ import router from './router'
 import store from './store'
 
 Vue.config.productionTip = false
+import 'assets/styles/reset.styl'
 
 new Vue({
   router,
